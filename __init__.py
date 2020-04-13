@@ -1,4 +1,4 @@
 name = "skeleton"
 
-import code.skeleton as skeleton
-from code.skeleton import some_bones
+import skeleton.skeleton as skeleton
+from skeleton.skeleton import some_bones
