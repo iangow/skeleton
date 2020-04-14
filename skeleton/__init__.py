@@ -1,3 +1,3 @@
 name = "skeleton"
  
-import skeleton
+import skeleton.skeleton
